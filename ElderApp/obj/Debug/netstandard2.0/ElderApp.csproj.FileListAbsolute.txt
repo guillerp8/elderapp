@@ -1,0 +1,15 @@
+C:\Users\gui28\source\repos\ElderApp\ElderApp\bin\Debug\netstandard2.0\ElderApp.deps.json
+C:\Users\gui28\source\repos\ElderApp\ElderApp\bin\Debug\netstandard2.0\ElderApp.dll
+C:\Users\gui28\source\repos\ElderApp\ElderApp\bin\Debug\netstandard2.0\ref\ElderApp.dll
+C:\Users\gui28\source\repos\ElderApp\ElderApp\bin\Debug\netstandard2.0\ElderApp.pdb
+C:\Users\gui28\source\repos\ElderApp\ElderApp\obj\Debug\netstandard2.0\ElderApp.csprojAssemblyReference.cache
+C:\Users\gui28\source\repos\ElderApp\ElderApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\gui28\source\repos\ElderApp\ElderApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\gui28\source\repos\ElderApp\ElderApp\obj\Debug\netstandard2.0\ElderApp.AssemblyInfoInputs.cache
+C:\Users\gui28\source\repos\ElderApp\ElderApp\obj\Debug\netstandard2.0\ElderApp.AssemblyInfo.cs
+C:\Users\gui28\source\repos\ElderApp\ElderApp\obj\Debug\netstandard2.0\ElderApp.csproj.CoreCompileInputs.cache
+C:\Users\gui28\source\repos\ElderApp\ElderApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\gui28\source\repos\ElderApp\ElderApp\obj\Debug\netstandard2.0\ElderApp.dll
+C:\Users\gui28\source\repos\ElderApp\ElderApp\obj\Debug\netstandard2.0\ref\ElderApp.dll
+C:\Users\gui28\source\repos\ElderApp\ElderApp\obj\Debug\netstandard2.0\ElderApp.pdb
+C:\Users\gui28\source\repos\ElderApp\ElderApp\obj\Debug\netstandard2.0\login.xaml.g.cs
